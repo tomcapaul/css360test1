@@ -3,3 +3,5 @@ drwxr-xr-x 1 tom 197608 0 Oct 20 19:41 ./
 drwxr-xr-x 1 tom 197608 0 Oct 20 19:34 ../
 drwxr-xr-x 1 tom 197608 0 Oct 20 19:39 .git/
 -rw-r--r-- 1 tom 197608 0 Oct 20 19:44 myfile.txt
+
+Another line of text for real this time!
